@@ -42,7 +42,7 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 
 - NodeJS v18.17.1
 - npm 10.8.1
-- Docker
+- Docker 4.29.0
 
 ## Getting Started
 
@@ -56,10 +56,23 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 
 - Run > **cd Microtiter-Plate-And-Heatmap**
 - Run > **npm install** to install the dependencies
+
+### To run the application
+
 - Run > **npm start** to start the application
 - Once server is up, now you are able to view the application at [http://localhost:3000](http://localhost:3000)
 
 ### Installation using Docker
+
+### Clone the repository:
+
+- git clone [PATH](https://github.com/phptarun/Microtiter-Plate-And-Heatmap.git)
+
+### Once clone is successful, nevigate to dir
+
+- Run > **cd Microtiter-Plate-And-Heatmap**
+- Run > **docker build -t Microtiter-Plate-And-Heatmap .** to create the build
+- Once build is created successfully, now you are able to view the application at [http://localhost:3000](http://localhost:3000)
 
 ## License
 
