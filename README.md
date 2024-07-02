@@ -1,7 +1,7 @@
 # 1536-well Microtiter Plate & Heatmap
 
 ### Overview
-- This React.js web application allows users to upload a CSV file and visualize the data as a heatmap. The application provides an interactive interface for users to explore and analyze the data efficiently.
+This React.js web application allows users to upload a CSV file and visualize the data as a heatmap. The application provides an interactive interface for users to explore and analyze the data efficiently.
 
 ## Features
 
