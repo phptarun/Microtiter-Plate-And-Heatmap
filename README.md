@@ -54,12 +54,12 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 
 ### Once clone is successful, to install required modules
 
-> Run > **cd Microtiter-Plate-And-Heatmap**
-> Run > **npm install** to install the dependencies
+>  **cd Microtiter-Plate-And-Heatmap**
+>  **npm install** to install the dependencies
 
 ### To run the application
 
-> Run > **npm start** to start the application
+>  **npm start** to start the application
 - Once server is up, now you are able to view the application at [http://localhost:3000](http://localhost:3000)
 
 ### Installation using Docker
@@ -70,8 +70,8 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 
 ### Once clone is successful, nevigate to respective dir
 
-> Run > **cd Microtiter-Plate-And-Heatmap**
-> Run > **docker build -t Microtiter-Plate-And-Heatmap .** to create the build
+>  **cd Microtiter-Plate-And-Heatmap**
+>  **docker build -t Microtiter-Plate-And-Heatmap .** to create the build
 - Once build is created successfully, now you are able to view the application at [http://localhost:3000](http://localhost:3000)
 
 ## License
