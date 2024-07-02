@@ -6,7 +6,7 @@ import uniqueID from "../utils/utils";
 const Heatmap = ({ data, metric }) => {
   const cellSize = 20;
   const colorScale = (value) => {
-    // Assingng some random value if value is not a number
+    // Assining some random value if value is not a number
     if (isNaN(value)) value = Math.floor(Math.random() * 11);
     const hue = (1 - value) * 440;
     return `hsl(${hue}, 100%, 50%)`;

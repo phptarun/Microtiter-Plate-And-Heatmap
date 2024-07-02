@@ -46,7 +46,7 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 
 ## Getting Started
 
-### Installation without Docker
+### Manul Installation
 
 ### Clone the repository:
 
@@ -58,6 +58,8 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 - Run > **npm install** to install the dependencies
 - Run > **npm start** to start the application
 - Once server is up, now you are able to view the application at [http://localhost:3000](http://localhost:3000)
+
+### Installation using Docker
 
 ## License
 

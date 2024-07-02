@@ -1,19 +1,3 @@
-// import React from 'react';
-// import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';
-
-// const MetricSelector = ({ metrics, selectedMetric, onSelectMetric }) => (
-//     <FormControl>
-//         <InputLabel>Metric</InputLabel>
-//         <Select value={selectedMetric} onChange={(e) => onSelectMetric(e.target.value)}>
-//             {metrics.map((metric) => (
-//                 <MenuItem key={metric} value={metric}>
-//                     {metric}
-//                 </MenuItem>
-//             ))}
-//         </Select>
-//     </FormControl>
-// );
-
 import * as React from "react";
 import Radio from "@mui/material/Radio";
 import RadioGroup from "@mui/material/RadioGroup";
