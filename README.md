@@ -1,6 +1,6 @@
 # 1536-well Microtiter Plate & Heatmap
 
-## Overview
+### Overview
 - This React.js web application allows users to upload a CSV file and visualize the data as a heatmap. The application provides an interactive interface for users to explore and analyze the data efficiently.
 
 ## Features
@@ -51,12 +51,12 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 ### Clone the repository:
 
 - git clone [PATH](https://github.com/phptarun/Microtiter-Plate-And-Heatmap.git)
-- cd Microtiter-Plate-And-Heatmap
 
 ### Once clone is successful, to install required modules
 
-- Run **npm install** to install the dependencies
-- Run **npm start** to start the application
+- Run > **cd Microtiter-Plate-And-Heatmap**
+- Run > **npm install** to install the dependencies
+- Run > **npm start** to start the application
 - Once server is up, now you are able to view the application at [http://localhost:3000](http://localhost:3000)
 
 ## License
