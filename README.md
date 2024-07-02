@@ -9,7 +9,7 @@ This React.js web application allows users to upload a CSV file and visualize th
 - **CSV File Integration**: Sample CSV files are available under /Sample CSV/*.
 - **Dynamic Heatmaps**: Experience intuitive data visualization through interactive heatmaps.
 
-## Example CSV File
+### CSV File Sample 
 
 ### microtiter_plate_data.csv
 ```text
