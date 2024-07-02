@@ -68,7 +68,7 @@ P48,0.54,0.76,0.98,Sample1536,Treated
 
 - git clone [PATH](https://github.com/phptarun/Microtiter-Plate-And-Heatmap.git)
 
-### Once clone is successful, nevigate to dir
+### Once clone is successful, nevigate to respective dir
 
 - Run > **cd Microtiter-Plate-And-Heatmap**
 - Run > **docker build -t Microtiter-Plate-And-Heatmap .** to create the build
